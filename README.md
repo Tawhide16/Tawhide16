@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👋 About Me<br><br>Hey there! I'm Tawhid Hasan Bejoy — a passionate Frontend Developer who loves turning designs into pixel-perfect, responsive user interfaces.<br><br>🌱 Currently studying Computer Science at Borak Polytechnic.  <br>🎓 Completed a professional frontend development course from **Programming Hero**.  <br>⚛️ Skilled in **React**, **JavaScript**, and **Tailwind CSS**.  <br>🎯 Always learning, always building — and sometimes breaking things (on purpose 😅).  <br>📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tawhide-hasan-bejoy/)<br>
 
 

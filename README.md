@@ -1,55 +1,76 @@
 <div align="center">
-  <img src="https://assets.grok.com/users/dd9c3a3c-2f2c-4060-bd32-b8e58dd98488/generated/69c351ce-31e0-436d-998d-9d3acda9bb6f/image.jpg" alt="Tawhid Hasan Bejoy" width="300" style="border-radius: 50%; border: 5px solid #38BDF8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.5); margin-bottom: 20px;"/>
-</div>
-
-# 👋 Hi, I'm Tawhid Hasan Bejoy
-
-## 🚀 Full Stack Developer | UI Enthusiast | Tech Explorer
-
-I'm a passionate developer who crafts beautiful, responsive web experiences with clean code. Currently pursuing Computer Science while building real-world projects.
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+ideas+into+interactive+reality;Clean+code+advocate;Always+learning+new+tech;Pixel-perfect+UI+specialist" alt="Typing animation" />
+  <img src="https://assets.grok.com/users/dd9c3a3c-2f2c-4060-bd32-b8e58dd98488/generated/69c351ce-31e0-436d-998d-9d3acda9bb6f/image.jpg" alt="Tawhid Hasan Bejoy" width="250" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0 4px 8px rgba(56, 189, 248, 0.3); margin-bottom: 20px; object-fit: cover;"/>
+  
+  <h1 align="center">Tawhid Hasan Bejoy</h1>
+  <h3 align="center">Full Stack Developer | React Specialist | UI/UX Enthusiast</h3>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/tawhide-hasan-bejoy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:tawhideonion@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/Tawhide16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  </p>
 </div>
 
 ---
 
-## 🛠 Tech Stack
+## 🔥 Technical Expertise
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Frontend Mastery
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tawhide16&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tawhide16&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhide16&layout=compact&langs_count=8&theme=radical" />
+
+### 1. Festival Explorer - Event Management Platform
+[![Festival Explorer](https://img.shields.io/badge/🔗_Live_Demo-FF5722?style=for-the-badge)](https://my-assignment-10-a4262.web.app/)
+[![GitHub Repo](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tawhide16/festival-explorer)
+
+**Tech Stack:** React, Firebase, Tailwind CSS  
+**Features:** Event booking, User authentication, Payment integration
+
+---
+
+### 2. Hotel Booking System
+[![Hotel Booking](https://img.shields.io/badge/🔗_Live_Demo-FF5722?style=for-the-badge)](https://my-hotel-a3994.web.app/)
+[![GitHub Repo](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tawhide16/hotel-booking)
+
+**Tech Stack:** React, Node.js, MongoDB  
+**Features:** Room reservation, Admin dashboard, Review system
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tawhide16&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tawhide16&theme=radical" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tawhide16&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
@@ -57,48 +78,16 @@ I'm a passionate developer who crafts beautiful, responsive web experiences with
 ## 🏆 Achievements
 
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tawhide16&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tawhide16&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  <img src="https://komarev.com/ghpvc/?username=Tawhide16&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
 
-## 🌟 GitHub Badges
+## 📫 Let's Collaborate!
 
 <div align="center">
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='55' height='55'></a> 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='55' height='55'></a> 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='55' height='55'></a> 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='50' height='50'></a> 
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='50' height='50'></a>
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawhide-hasan-bejoy/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tawhideonion@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<div align="center">
-<!-- BLOG-POST-LIST:START -->
-- [10 React Performance Optimization Tips](https://dev.to/yourblog)
-- [Mastering Tailwind CSS: Beyond the Basics](https://dev.to/yourblog)
-- [Building a Fullstack App with Next.js and NestJS](https://dev.to/yourblog)
-<!-- BLOG-POST-LIST:END -->
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tawhide16&label=Profile%20views&color=0e75b6&style=flat" alt="Tawhide16" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tawhide16&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
+  <p>Open for exciting projects and opportunities</p>
+  <a href="mailto:tawhideonion@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-FF5722?style=for-the-badge&logo=mail.ru&logoColor=white"/></a>
 </div>

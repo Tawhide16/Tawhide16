@@ -12,8 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Tawhide16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhide16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tawhide16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="left">Github Trophy:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaber4770" alt="jaber4770" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

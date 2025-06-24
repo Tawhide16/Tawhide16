@@ -61,15 +61,35 @@ I'm a passionate developer who crafts beautiful, responsive web experiences with
 
 ---
 
-## ✨ Featured Projects
+## 🚀 Featured Projects
 
-1. **Project Alpha** - A React e-commerce platform  
-   [![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tawhide16/project-alpha)  
-   ![Tech](https://img.shields.io/badge/React-Tailwind-Firebase-38BDF8?style=flat-square)
+<div align="center">
 
-2. **DevConnect** - Developer social network  
-   [![Live Demo](https://img.shields.io/badge/Live_Demo-4BC0D9?style=for-the-badge)](https://devconnect-demo.netlify.app)  
-   ![Tech](https://img.shields.io/badge/Next.js-Node-MongoDB-47A248?style=flat-square)
+### 1. Festival Explorer - Event Management Platform
+[![Festival Explorer Screenshot](https://via.placeholder.com/800x400?text=Festival+Explorer+Screenshot)](https://my-assignment-10-a4262.web.app/)
+  
+Explore and book tickets for various festivals and events with this comprehensive platform.
+
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tawhide16/festival-explorer)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firebase&logoColor=white)](https://my-assignment-10-a4262.web.app/)
+  
+![Tech Stack](https://img.shields.io/badge/React-React_Router-Firebase-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Tailwind_CSS-DaisyUI-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+### 2. Hotel Booking - Accommodation Reservation System
+[![Hotel Booking Screenshot](https://via.placeholder.com/800x400?text=Hotel+Booking+Screenshot)](https://my-hotel-a3994.web.app/)
+  
+Book your perfect stay with this intuitive hotel reservation platform.
+
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tawhide16/hotel-booking)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firebase&logoColor=white)](https://my-hotel-a3994.web.app/)
+  
+![Tech Stack](https://img.shields.io/badge/React-React_Router-Firebase-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Tailwind_CSS-DaisyUI-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</div>
 
 ---
 

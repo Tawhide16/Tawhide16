@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Tawhid Hasan Bejoy
 
-## 🚀 Full Stack Developer | UI Enthusiast | Tech Explorer
+## 🚀 Front-End Developer | UI Enthusiast | Tech Explorer
 
 I'm a passionate developer who crafts beautiful, responsive web experiences with clean code. Currently pursuing Computer Science while building real-world projects.
 

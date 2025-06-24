@@ -7,6 +7,9 @@ I'm a passionate developer who crafts beautiful, responsive web experiences with
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+ideas+into+interactive+reality;Clean+code+advocate;Always+learning+new+tech;Pixel-perfect+UI+specialist" alt="Typing animation" />
 </div>
+<div align="center">
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+ideas+into+interactive+reality;Clean+code+advocate;Always+learning+new+tech;Pixel-perfect+UI+specialist" alt="Typing animation](https://assets.grok.com/users/dd9c3a3c-2f2c-4060-bd32-b8e58dd98488/generated/69c351ce-31e0-436d-998d-9d3acda9bb6f/image.jpg)" />
+</div>
 
 ---
 

@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://assets.grok.com/users/dd9c3a3c-2f2c-4060-bd32-b8e58dd98488/generated/69c351ce-31e0-436d-998d-9d3acda9bb6f/image.jpg" alt="Tawhid Hasan Bejoy" width="300" style="border-radius: 50%; border: 5px solid #38BDF8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.5); margin-bottom: 20px;"/>
+</div>
+
 # 👋 Hi, I'm Tawhid Hasan Bejoy
 
 ## 🚀 Full Stack Developer | UI Enthusiast | Tech Explorer
@@ -7,13 +11,12 @@ I'm a passionate developer who crafts beautiful, responsive web experiences with
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+ideas+into+interactive+reality;Clean+code+advocate;Always+learning+new+tech;Pixel-perfect+UI+specialist" alt="Typing animation" />
 </div>
-<div align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+ideas+into+interactive+reality;Clean+code+advocate;Always+learning+new+tech;Pixel-perfect+UI+specialist" alt="Typing animation](https://assets.grok.com/users/dd9c3a3c-2f2c-4060-bd32-b8e58dd98488/generated/69c351ce-31e0-436d-998d-9d3acda9bb6f/image.jpg)" />
-</div>
 
 ---
 
 ## 🛠 Tech Stack
+
+<div align="center">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,6 +40,8 @@ I'm a passionate developer who crafts beautiful, responsive web experiences with
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+</div>
+
 ---
 
 ## 📈 GitHub Stats
@@ -51,44 +56,49 @@ I'm a passionate developer who crafts beautiful, responsive web experiences with
 
 ## 🏆 Achievements
 
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tawhide16&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ---
-## 🌟 GitHub Badges & Achievements
 
-<div align="left">
+## 🌟 GitHub Badges
 
+<div align="center">
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='55' height='55'></a> 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='55' height='55'></a> 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='55' height='55'></a> 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='50' height='50'></a> 
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='50' height='50'></a>
+</div>
 
 ---
 
 ## 🌐 Let's Connect
 
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawhide-hasan-bejoy/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tawhideonion@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+</div>
 
 ---
 
 ## 📝 Latest Blog Posts
 
+<div align="center">
 <!-- BLOG-POST-LIST:START -->
 - [10 React Performance Optimization Tips](https://dev.to/yourblog)
 - [Mastering Tailwind CSS: Beyond the Basics](https://dev.to/yourblog)
 - [Building a Fullstack App with Next.js and NestJS](https://dev.to/yourblog)
 <!-- BLOG-POST-LIST:END -->
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tawhide16&label=Profile%20views&color=0e75b6&style=flat" alt="Tawhide16" /> 
-</p>
-
-<p align="center"> 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tawhide16&label=Profile%20views&color=0e75b6&style=flat" alt="Tawhide16" />
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tawhide16&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
-</p>
+</div>

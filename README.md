@@ -9,7 +9,7 @@ I'm a passionate developer who crafts beautiful, responsive web experiences with
 </div>
 ---
 
-<img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-cb0d139e178018df8b3e778369395ac7" alt="jaber-ahmed-7175a11b0"/>
+<img align="center" src="[https://qph.cf2.quoracdn.net/main-qimg-cb0d139e178018df8b3e778369395ac7" alt="jaber-ahmed-7175a11b0](https://blog.mergify.com/content/images/2023/09/Banner-Git-Github-Glossary-min.png)"/>
 
 ## 🛠 Tech Stack
 

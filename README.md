@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Custom Canva Banner" />
+  <img src="https://i.ibb.co.com/S4qHnsqk/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png" alt="Custom Canva Banner" />
 </div>
 
 <div align="center">

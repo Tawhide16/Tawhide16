@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://blog.mergify.com/content/images/2023/09/Banner-Git-Github-Glossary-min.png" alt="Git & GitHub Glossary Banner" />
+  <img src="banner.png" alt="Custom Canva Banner" />
 </div>
 
 <div align="center">

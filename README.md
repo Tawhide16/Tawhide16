@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center" style="margin:0;padding:0;">
-  <img src="https://i.ibb.co/S4qHnsqk/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png" alt="Tawhid Hasan Bejoy Banner" width="100%" />
+  <img src="https://i.ibb.co/HDcBjMQ/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png" alt="Tawhid Hasan Bejoy Banner" width="100%" />
 </p>
 
 <!-- Typing Animation -->

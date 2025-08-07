@@ -1,16 +1,18 @@
+<div align="center">
+  <img src="https://blog.mergify.com/content/images/2023/09/Banner-Git-Github-Glossary-min.png" alt="Git & GitHub Glossary Banner" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+ideas+into+interactive+reality;Clean+code+advocate;Always+learning+new+tech;Pixel-perfect+UI+specialist" alt="Typing animation" />
 </div>
- # 👋 Hi, I'm Tawhid Hasan Bejoy
+
+# 👋 Hi, I'm Tawhid Hasan Bejoy
 
 ## 🚀 Front-End Developer | UI Enthusiast | Tech Explorer
 
 I'm a passionate developer who crafts beautiful, responsive web experiences with clean code. Currently pursuing Computer Science while building real-world projects.
+
 ---
-
-<img align="center" src="https://blog.mergify.com/content/images/2023/09/Banner-Git-Github-Glossary-min.png" alt="Git & GitHub Glossary Banner" />
-
 
 ## 🛠 Tech Stack
 
@@ -53,6 +55,7 @@ I'm a passionate developer who crafts beautiful, responsive web experiences with
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tawhide16&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
 ## 🌟 GitHub Badges & Achievements
 
 <div align="left">
@@ -63,6 +66,8 @@ I'm a passionate developer who crafts beautiful, responsive web experiences with
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='50' height='50'></a> 
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='50' height='50'></a>
 
+</div>
+
 ---
 
 ## 🌐 Let's Connect
@@ -70,7 +75,7 @@ I'm a passionate developer who crafts beautiful, responsive web experiences with
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawhide-hasan-bejoy/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tawhideonion@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://idyllic-faun-c94e9a.netlify.app/)
 
 ---
 

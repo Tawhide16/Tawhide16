@@ -1,12 +1,12 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+ideas+into+interactive+reality;Clean+code+advocate;Always+learning+new+tech;Pixel-perfect+UI+specialist" alt="Typing animation" />
+</div>
  # 👋 Hi, I'm Tawhid Hasan Bejoy
 
 ## 🚀 Front-End Developer | UI Enthusiast | Tech Explorer
 
 I'm a passionate developer who crafts beautiful, responsive web experiences with clean code. Currently pursuing Computer Science while building real-world projects.
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+ideas+into+interactive+reality;Clean+code+advocate;Always+learning+new+tech;Pixel-perfect+UI+specialist" alt="Typing animation" />
-</div>
 ---
 
 <img align="center" src="https://blog.mergify.com/content/images/2023/09/Banner-Git-Github-Glossary-min.png" alt="Git & GitHub Glossary Banner" />

@@ -1,10 +1,12 @@
-<div align="center">
-  <img src="https://i.ibb.co.com/S4qHnsqk/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png" alt="Custom Canva Banner" />
-</div>
+<!-- Banner Section -->
+<p align="center" style="margin:0;padding:0;">
+  <img src="https://i.ibb.co/S4qHnsqk/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png" alt="Custom Canva Banner" width="100%" />
+</p>
 
-<div align="center">
+<!-- Typing Animation -->
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+ideas+into+interactive+reality;Clean+code+advocate;Always+learning+new+tech;Pixel-perfect+UI+specialist" alt="Typing animation" />
-</div>
+</p>
 
 # 👋 Hi, I'm Tawhid Hasan Bejoy
 

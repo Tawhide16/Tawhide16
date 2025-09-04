@@ -28,6 +28,16 @@ I'm **Tawhid Hasan Bejoy**, a passionate **Front-End Developer** 🚀 who loves 
 
 ---
 
+## 🌐 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawhide-hasan-bejoy/)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801745413122)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tawhiedeh.b10@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tawhide-hasan-bejoy.netlify.app/)  
+
+---
+
+
 ## 🛠 Tech Stack
 
 ### Frontend

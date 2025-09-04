@@ -17,6 +17,17 @@ I'm a passionate developer who crafts beautiful, responsive web experiences with
 
 ---
 
+## 🙋‍♂️ About Me  
+
+I'm **Tawhid Hasan Bejoy**, a passionate **Front-End Developer** 🚀 who loves turning creative ideas into functional, pixel-perfect web experiences.  
+- 🌱 Currently pursuing **Computer Science** and building real-world projects.  
+- 💻 Skilled in **React.js, Node.js, Express.js, MongoDB, and Tailwind CSS**.  
+- 🎨 Obsessed with crafting **clean UI/UX** and writing **maintainable code**.  
+- ⚡ Fun fact: I debug faster with coffee ☕ and late-night coding vibes 🌙.  
+- 🎯 Goal: To contribute to impactful projects and grow as a **Full-Stack Developer**.  
+
+---
+
 ## 🛠 Tech Stack
 
 ### Frontend

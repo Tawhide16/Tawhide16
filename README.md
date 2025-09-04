@@ -30,7 +30,7 @@ I'm **Tawhid Hasan Bejoy**, a passionate **Front-End Developer** 🚀 who loves 
 
 ## 🌐 Let's Connect  
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/tawhide-hasan-bejoy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

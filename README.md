@@ -1,6 +1,10 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="https://i.ibb.co.com/HDcBjMQg/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png" alt="Tawhid Hasan Bejoy Banner" />
+  <img
+    src="https://i.ibb.co.com/NnFGPvws/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png"
+    alt="Profile Banner"
+    style="max-width:100%;height:auto;border-radius:8px;"
+  />
 </div>
 
 <!-- Typing Animation -->

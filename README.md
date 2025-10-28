@@ -3,7 +3,7 @@
   <img
     src="https://i.ibb.co.com/NnFGPvws/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png"
     alt="Profile Banner"
-    style="max-width:100%;height:auto;border-radius:8px;"
+    style="max-width:60%;height:auto;border-radius:8px;"
   />
 </div>
 

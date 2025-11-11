@@ -120,22 +120,4 @@ I'm **Tawhid Hasan Bejoy**, a passionate **Front-End Developer** 🚀 who loves 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://idyllic-faun-c94e9a.netlify.app/)
 
----
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [10 React Performance Optimization Tips](https://dev.to/yourblog)
-- [Mastering Tailwind CSS: Beyond the Basics](https://dev.to/yourblog)
-- [Building a Fullstack App with Next.js and NestJS](https://dev.to/yourblog)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tawhide16&label=Profile%20views&color=0e75b6&style=flat" alt="Tawhide16" /> 
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tawhide16&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
-</p>

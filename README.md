@@ -1,11 +1,13 @@
+
 <!-- Banner Section -->
 <div align="center">
   <img
     src="https://i.ibb.co/BHKzKJ2X/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image-2.png"
     alt="Profile Banner"
-    style="max-width:60%;height:auto;border-radius:8px;"
+    style="width:100%;height:auto;border-radius:8px;"
   />
 </div>
+
 
 
 

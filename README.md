@@ -9,6 +9,16 @@
 </div>
 <!-- Banner Section end -->
 
+<!-- Banner Section -->
+<div align="center">
+  <img
+    src="https://i.ibb.co.com/BHKzKJ2X/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image-2.png"
+    alt="Profile Banner"
+    style="width:100%;max-width:100%;border-radius:10px;object-fit:cover;display:block;"
+  />
+</div>
+<!-- Banner Section end -->
+
 
 
 

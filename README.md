@@ -8,7 +8,7 @@
 </div>
 <!-- Banner Section end -->
 
-<!-- Banner Section end -->
+
 <!-- Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+ideas+into+interactive+reality;Clean+code+advocate;Always+learning+new+tech;Pixel-perfect+UI+specialist" alt="Typing animation" />

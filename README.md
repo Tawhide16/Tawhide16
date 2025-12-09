@@ -2,7 +2,7 @@
 <div align="center">
   <img
     src="https://i.ibb.co.com/5WsDKY7s/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image-2.png"
-    alt="Profile Banner"
+    alt="Profile Banner."
     style="width:100%;max-width:100%;border-radius:10px;object-fit:cover;display:block;"
   />
 </div>

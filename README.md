@@ -16,7 +16,6 @@
 
 
 # 👋 Hi, I'm Tawhid Hasan Bejoy
-# 👋 Hi, I'm Tawhid Hasan Bejoy
 
 ## 🚀 Front-End Developer | UI Enthusiast | Tech Explorer
 

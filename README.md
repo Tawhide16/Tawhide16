@@ -6,7 +6,7 @@
     style="width:100%;max-width:100%;border-radius:10px;object-fit:cover;display:block;"
   />
 </div>
-<!-- Banner Section end -->
+
 
 <!-- Typing Animation -->
 <div align="center">

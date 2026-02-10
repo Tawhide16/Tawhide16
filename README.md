@@ -7,8 +7,6 @@
   />
 </div>
 <!-- Banner Section end -->
-<!-- Banner Section end -->
-
 
 <!-- Typing Animation -->
 <div align="center">

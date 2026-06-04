@@ -36,8 +36,8 @@
 const tawhid = {
   name     : "Tawhid Hasan Bejoy",
   role     : "Full-Stack Developer & Shopify Expert",
-  company  : "BDCalling IT Ltd.",
-  education: "B.Sc. in Computer Science",
+  company  : "Softvence IT Ltd.",
+  education: "Diploma in Computer Science",
   shopify  : ["Custom Sections", "Liquid Templates", "Theme Development", "Ruby"],
   frontend : ["React.js", "Next.js", "JavaScript", "Tailwind CSS"],
   backend  : ["Node.js", "Express.js", "NestJS", "MongoDB"],

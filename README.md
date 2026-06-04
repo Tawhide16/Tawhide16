@@ -32,6 +32,7 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
 <table>
 <tr>
 <td valign="top" width="70%">
@@ -52,6 +53,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ---
 

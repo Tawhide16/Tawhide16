@@ -1,25 +1,31 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tawhid%20Hasan%20Bejoy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Shopify%20Expert&descAlignY=55&descSize=18" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Tawhid%20Hasan%20Bejoy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Shopify%20Expert&descAlignY=58&descSize=20&descColor=38BDF8" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Shopify+Theme+Developer+%F0%9F%9B%8D%EF%B8%8F;Liquid+Template+Specialist+%F0%9F%92%A7;React+%26+Next.js+Developer+%E2%9A%9B%EF%B8%8F;Pixel-perfect+UI+Specialist+%F0%9F%8E%A8;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tawhide-hasan-bejoy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:tawhiedeh.b10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://tawhide-hasan-bejoy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
-  <a href="https://wa.me/8801745413122"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;Shopify+Theme+%26+Liquid+Specialist+%F0%9F%9B%8D%EF%B8%8F;Ruby+%26+JavaScript+Developer+%F0%9F%92%8E;React+%7C+Next.js+%7C+Node.js+Expert+%E2%9A%9B%EF%B8%8F;Building+High-Converting+Stores+%F0%9F%92%B0" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tawhide16&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Tawhide16?label=Followers&style=flat&color=0e75b6" />
+  <a href="https://www.linkedin.com/in/tawhide-hasan-bejoy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:tawhiedeh.b10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://tawhide-hasan-bejoy.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://wa.me/8801745413122">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tawhide16&label=Profile+Views&color=38BDF8&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Tawhide16?label=Followers&style=for-the-badge&color=38BDF8" />
 </div>
 
 ---
@@ -29,30 +35,30 @@
 ```javascript
 const tawhid = {
   name     : "Tawhid Hasan Bejoy",
-  role     : "Front-End Developer & Shopify Expert",
+  role     : "Full-Stack Developer & Shopify Expert",
   company  : "BDCalling IT Ltd.",
   education: "B.Sc. in Computer Science",
-  expertise: ["Shopify Theme Dev", "Liquid", "React.js", "Next.js", "Node.js"],
-  tools    : ["Figma", "Git", "VS Code", "Postman"],
-  passion  : "Crafting pixel-perfect, high-converting Shopify stores",
+  shopify  : ["Custom Sections", "Liquid Templates", "Theme Development", "Ruby"],
+  frontend : ["React.js", "Next.js", "JavaScript", "Tailwind CSS"],
+  backend  : ["Node.js", "Express.js", "NestJS", "MongoDB"],
+  passion  : "Building pixel-perfect, high-converting Shopify stores",
   funFact  : "I debug faster with coffee ☕ and late-night coding vibes 🌙"
 };
 ```
 
-- 🛍️ **Shopify Expert** — building custom sections, themes & Liquid templates
-- 💧 Skilled in **Liquid**, **Ruby**, **JavaScript**, **React.js**, **Tailwind CSS**
-- 🎨 Passionate about **clean UI/UX** and **conversion-focused** design
-- 🌱 Currently growing into **Full-Stack Development**
+- 🛍️ **Shopify Expert** — Custom sections, themes & Liquid/Ruby templates
+- ⚡ **Full-Stack** — React, Next.js, Node.js, MongoDB end-to-end
+- 🎨 Obsessed with **clean UI/UX** and **conversion-focused** design
 - 🤝 Open to **collaborations**, **freelance**, and **open source** projects
 
 ---
 
-## 🛍️ Shopify & E-Commerce Stack
+## 🛍️ Shopify & E-Commerce
 
 <div align="center">
 
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-00BFFF?style=for-the-badge&logo=liquid&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid_Template-0082C9?style=for-the-badge&logo=water&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
@@ -93,14 +99,13 @@ const tawhid = {
 
 </div>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -111,12 +116,12 @@ const tawhid = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tawhide16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tawhide16&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tawhide16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Tawhide16&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhide16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhide16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -124,7 +129,7 @@ const tawhid = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tawhide16&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tawhide16&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -132,7 +137,7 @@ const tawhid = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tawhide16&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tawhide16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
@@ -146,10 +151,8 @@ const tawhid = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <b>⭐ If you find my work helpful, consider giving a star!</b><br/>
+  <b>⭐ If you find my work helpful, consider giving a star to my repositories!</b><br/>
   <sub>Made with ❤️ by Tawhid Hasan Bejoy</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&fontSize=20&fontColor=38BDF8&animation=fadeIn&text=Let%27s%20Build%20Something%20Amazing%20Together%20%F0%9F%9A%80&fontAlignY=65&descSize=14" width="100%"/>

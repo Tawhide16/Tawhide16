@@ -32,24 +32,26 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const tawhid = {
-  name     : "Tawhid Hasan Bejoy",
-  role     : "Full-Stack Developer & Shopify Expert",
-  company  : "Softvence IT Ltd.",
-  education: "Diploma in Computer Science",
-  shopify  : ["Custom Sections", "Liquid Templates", "Theme Development", "Ruby"],
-  frontend : ["React.js", "Next.js", "JavaScript", "Tailwind CSS"],
-  backend  : ["Node.js", "Express.js", "NestJS", "MongoDB"],
-  passion  : "Building pixel-perfect, high-converting Shopify stores",
-  funFact  : "I debug faster with coffee ☕ and late-night coding vibes 🌙"
-};
-```
+<table>
+<tr>
+<td valign="top" width="70%">
 
-- 🛍️ **Shopify Expert** — Custom sections, themes & Liquid/Ruby templates
-- ⚡ **Full-Stack** — React, Next.js, Node.js, MongoDB end-to-end
-- 🎨 Obsessed with **clean UI/UX** and **conversion-focused** design
-- 🤝 Open to **collaborations**, **freelance**, and **open source** projects
+- 🌟 Started with **Front-End Development**, now a **Full-Stack Developer**
+- 🛍️ Working as **Shopify Theme Developer** at **BDCalling IT Ltd.**
+- 💧 Building custom sections with **Liquid** & **Ruby** templates
+- ⚛️ Skilled in **React.js**, **Next.js**, **Node.js**, **Tailwind CSS**
+- 🎓 Currently pursuing **B.Sc. in Computer Science**
+- 🎨 Passionate about **pixel-perfect UI/UX** and clean code
+- 💬 Ask me about **Shopify**, **Liquid**, **React.js**, **Full-Stack Dev**
+- ⚡ Fun fact: I debug faster with **coffee ☕** and late-night vibes 🌙
+- ✨ I only like **perfection** — every pixel matters!
+
+</td>
+<td valign="top" width="30%">
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 

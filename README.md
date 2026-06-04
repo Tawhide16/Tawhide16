@@ -38,10 +38,10 @@
 <td valign="top" width="70%">
 
 - 🌟 Started with **Front-End Development**, now a **Full-Stack Developer**
-- 🛍️ Working as **Shopify Theme Developer** at **BDCalling IT Ltd.**
+- 🛍️ Working as **Shopify Theme Developer** at **Softvence IT Ltd.**
 - 💧 Building custom sections with **Liquid** & **Ruby** templates
 - ⚛️ Skilled in **React.js**, **Next.js**, **Node.js**, **Tailwind CSS**
-- 🎓 Currently pursuing **B.Sc. in Computer Science**
+- 🎓 Currently pursuing **Deploma in Computer Science**
 - 🎨 Passionate about **pixel-perfect UI/UX** and clean code
 - 💬 Ask me about **Shopify**, **Liquid**, **React.js**, **Full-Stack Dev**
 - ⚡ Fun fact: I debug faster with **coffee ☕** and late-night vibes 🌙

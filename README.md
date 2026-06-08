@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Tawhid%20Hasan%20Bejoy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Shopify%20Expert&descAlignY=58&descSize=20&descColor=38BDF8" width="100%"/>
-/gffffmklsdjtoi
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;Shopify+Theme+%26+Liquid+Specialist+%F0%9F%9B%8D%EF%B8%8F;Ruby+%26+JavaScript+Developer+%F0%9F%92%8E;React+%7C+Next.js+%7C+Node.js+Expert+%E2%9A%9B%EF%B8%8F;Building+High-Converting+Stores+%F0%9F%92%B0" alt="Typing SVG" />
 </div>

@@ -45,9 +45,8 @@
 - ⚡ **Pre-Match Ritual:** Coffee ☕ + late-night vibes 🌙 = fastest debugging
 - ✨ **Motto:** Every pixel matters — I play for **perfection**, not draws!
 
-</td>
 <td valign="top" width="30%">
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%"/>
+<img src="./Tawhide16-gitfut.png" width="100%"/>
 </td>
 </tr>
 </table>

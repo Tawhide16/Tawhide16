@@ -135,7 +135,7 @@
 ## 📈 Season Form — Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00A651/Tawhide16" alt="Contribution graph" width="100%"/>
+  <img src="./github-metrics.svg" alt="Contribution columns" width="100%"/>
 </div>
 
 ---

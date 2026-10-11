@@ -135,7 +135,7 @@
 ## 📈 Season Form — Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tawhide16&bg_color=0d1117&color=FFD700&line=00A651&point=FFD700&hide_border=true" width="100%"/>
+  <img src="https://ghchart.rshah.org/00A651/Tawhide16" alt="Contribution graph" width="100%"/>
 </div>
 
 ---
@@ -143,9 +143,12 @@
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Tawhide16&theme=radical&margin-w=8&margin-h=8&row=1&column=7" alt="Trophies" />
-  </a>
+
+![Fans](https://img.shields.io/github/followers/Tawhide16?label=Fans&style=for-the-badge&color=FFD700)
+![Role](https://img.shields.io/badge/Role-Shopify_Developer-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Goal](https://img.shields.io/badge/Goal-Full--Stack_%26_Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Season](https://img.shields.io/badge/World_Cup_Edition-2026-00A651?style=for-the-badge&logo=trophy&logoColor=FFD700)
+
 </div>
 
 ---

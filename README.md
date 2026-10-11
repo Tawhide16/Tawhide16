@@ -45,6 +45,7 @@
 - ⚡ **Pre-Match Ritual:** Coffee ☕ + late-night vibes 🌙 = fastest debugging
 - ✨ **Motto:** Every pixel matters — I play for **perfection**, not draws!
 
+</td>
 <td valign="top" width="30%">
 <img src="./Tawhide16-gitfut.png" width="100%"/>
 </td>
@@ -89,6 +90,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 </div>
 
@@ -96,6 +98,8 @@
 <div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
@@ -105,6 +109,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -138,7 +143,9 @@
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tawhide16&theme=chalk&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Tawhide16&theme=radical&margin-w=8&margin-h=8&row=1&column=7" alt="Trophies" />
+  </a>
 </div>
 
 ---

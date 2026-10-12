@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=%E2%9A%BD+Full-Stack+Developer+%7C+No.10+Playmaker;%F0%9F%9B%8D%EF%B8%8F+Shopify+Theme+%26+Liquid+Specialist;%F0%9F%92%8E+Ruby+%26+JavaScript+Striker;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+%7C+Node.js+Squad;%F0%9F%8F%86+Scoring+High-Converting+Stores!" alt="Typing SVG" />
 </div>
 <br/>
-
+--------------
 <div align="center">
   <a href="https://www.linkedin.com/in/tawhide-hasan-bejoy/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>

@@ -1,7 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d1f,50:00A651,100:FFD700&height=220&section=header&text=Tawhid%20Hasan%20Bejoy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%BD%20WORLD%20CUP%20EDITION%202026%20%7C%20Full-Stack%20Developer%20%7C%20Shopify%20Expert%20%F0%9F%8F%86&descAlignY=58&descSize=18&descColor=FFD700" width="100%"/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=%E2%9A%BD+Full-Stack+Developer+%7C+No.10+Playmaker;%F0%9F%9B%8D%EF%B8%8F+Shopify+Theme+%26+Liquid+Specialist;%F0%9F%92%8E+Ruby+%26+JavaScript+Striker;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+%7C+Node.js+Squad;%F0%9F%8F%86+Scoring+High-Converting+Stores!" alt="Typing SVG" />
+  <img src="./portfolio-banner.png" alt="Tawhid Hasan Bejoy portfolio banner" width="100%" />
 </div>
 <br/>
 

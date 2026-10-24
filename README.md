@@ -47,7 +47,7 @@
 </td>
 <td valign="top" width="30%" align="center">
   <a href="https://gitfut.com/Tawhide16?country=bd">
-    <b>⚽ View My GitFut Card</b>
+    <img src="https://gitfut.com/Tawhide16.png?country=bd" alt="My GitFut Card" width="100%"/>
   </a>
 </td>
 </tr>

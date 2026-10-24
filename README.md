@@ -45,8 +45,10 @@
 - ✨ **Motto:** Every pixel matters — I play for **perfection**, not draws!
 
 </td>
-<td valign="top" width="30%">
-<img src="./Tawhide16-gitfut.png" width="100%"/>
+<td valign="top" width="30%" align="center">
+  <a href="https://gitfut.com/Tawhide16?country=bd">
+    <b>⚽ View My GitFut Card</b>
+  </a>
 </td>
 </tr>
 </table>
